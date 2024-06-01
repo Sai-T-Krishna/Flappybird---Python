@@ -15,6 +15,10 @@ score = 0
 high_score = 0
 
 
+
+hgjhjhkjkj
+
+
 #define a function for floor movement
 def draw_floor():
     screen.blit(base_floor, (floor_x_pos, 800))
